@@ -1,0 +1,457 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 145,
+    "sha256": "bfe3146e7447a4e977fded4884cce853828bec5dd7e68f3a4897ecf452fa43fb"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 113,
+    "sha256": "d643831b5639c17cb6c126742f33c266e12b61ff548f917c2ef2547a51353c61"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2644,
+    "sha256": "1485afed0e77c57bd75016ca2bb6891834f184978a45e8421a0a03260f176609"
+  },
+  {
+    "path": "动画/小车三物料搬运_完整包裹_限位修正_俯视_配乐版.mp4",
+    "bytes": 7084254,
+    "sha256": "8ec9fab8d9cb35e5cd9f604c44700c39fbbc2b7614cfda011f0dc055c5dfec81"
+  },
+  {
+    "path": "动画/小车三物料搬运_完整包裹_限位修正_斜视_配乐版.mp4",
+    "bytes": 9294574,
+    "sha256": "4cc3f02f6ea380ca59b5f779404fcebc976cec0a032cdc56156d8f9d018912d4"
+  },
+  {
+    "path": "文档/有效模型路径.txt",
+    "bytes": 6384,
+    "sha256": "a8a190246dea4a8fedd8e4ad508dfeee594b9fcdedf1be1e9ffdb6987c6cec0c"
+  },
+  {
+    "path": "文档/来源与改动说明.md",
+    "bytes": 1243,
+    "sha256": "4258c0354faa2bb9dea9203ba9c11bbd30c59c342b3743f95ff16ab0db4bca41"
+  },
+  {
+    "path": "文档/独立副本说明.tsv",
+    "bytes": 222,
+    "sha256": "c38505b97e7f4e22ec606db926618a734ff21067818d7bbe457212afabd1cbb5"
+  },
+  {
+    "path": "文档/舵机参考几何说明.txt",
+    "bytes": 551,
+    "sha256": "0b3e6a764ea3baabcba3dfdf8dba4998b4dafad6819359b0414a8f706076765f"
+  },
+  {
+    "path": "文档/装配完整性报告.txt",
+    "bytes": 317,
+    "sha256": "f9c086c0a861be6825351c0f4cd3c0d1602e46108811262217623078034e18db"
+  },
+  {
+    "path": "文档/装配引用检查.tsv",
+    "bytes": 12112,
+    "sha256": "67b0a9fa5298ef3f73f782329502dcdd40ba74a74c8b14f3c7cb879d7f1ec1ef"
+  },
+  {
+    "path": "模型/智梭_10mm铜柱.SLDPRT",
+    "bytes": 78199,
+    "sha256": "42c552ffa5d2c34ef3451aa9a74e7da345573acd89263277d17474fd147e4cf2"
+  },
+  {
+    "path": "模型/智梭_13mm铜柱.SLDPRT",
+    "bytes": 69490,
+    "sha256": "943faf02130af0a9e89fb8619ddcedf95a8fc1737489e23dbef1ab3d5c6e7437"
+  },
+  {
+    "path": "模型/智梭_1云台装配.SLDASM",
+    "bytes": 269141,
+    "sha256": "1b34e6c872221dd7c76fc9e9045c3c4f0fb27f554ea6251742393d5e858dc322"
+  },
+  {
+    "path": "模型/智梭_2027升降台总_铝条支架_标准紧固件.SLDASM",
+    "bytes": 2167332,
+    "sha256": "5b79a7970e76f20aee7efbdd4a058a060fe778856735affcdd64f42f57e086a5"
+  },
+  {
+    "path": "模型/智梭_28闭环步进电机.SLDPRT",
+    "bytes": 130896,
+    "sha256": "bf1ba3f7bbe2e93c7c6dda9ee2fb452180a32547d45886f31e2659d86be393d4"
+  },
+  {
+    "path": "模型/智梭_42步进电机-01.SLDPRT",
+    "bytes": 225218,
+    "sha256": "e8ece9f79333c25644b37fc84b900cced4a0a5f15554cc16d04de2fd6a4e6712"
+  },
+  {
+    "path": "模型/智梭_42步进电机-02.SLDPRT",
+    "bytes": 249489,
+    "sha256": "8c36d0a69a8955077090111449cc2bbe640e76406ecf02f5cd88a081b18cd364"
+  },
+  {
+    "path": "模型/智梭_42步进电机-03.SLDPRT",
+    "bytes": 169100,
+    "sha256": "9dc9d49a1525e916aebd6ecd7d32ab65b4cf0674564dcd83cb32a86a0343fc5f"
+  },
+  {
+    "path": "模型/智梭_42步进电机-04.SLDPRT",
+    "bytes": 69251,
+    "sha256": "be7c565532854b0cc6c68225fa9a60f1b12116d114d69cdea697c000101de781"
+  },
+  {
+    "path": "模型/智梭_42步进电机-05.SLDPRT",
+    "bytes": 332100,
+    "sha256": "6e79b65577b89e64c849532b458ee181b9f7645e85edcf1403f779b85d89a3b3"
+  },
+  {
+    "path": "模型/智梭_42步进电机.SLDASM",
+    "bytes": 214561,
+    "sha256": "bcc0cef3c423743603282ebea991d7b2ce70d9682e5c6371947dae099d8139be"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x10.SLDPRT",
+    "bytes": 100427,
+    "sha256": "ae9b295b705bae7af63dccdf2e9d4474184006ef551107245f4ee7916447b372"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x12.SLDPRT",
+    "bytes": 100971,
+    "sha256": "e9e651e7dc9d0f490f27c6a85e8ab7bc39ff46b554c647b1c50734912c8321ad"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x16.SLDPRT",
+    "bytes": 101262,
+    "sha256": "eab8a4f2d83a6e2cbc3cacc326134c540a86df964221a788354b89c641478352"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x20.SLDPRT",
+    "bytes": 99114,
+    "sha256": "c5de57b11b15a2cb2c354f8292d65d0e877f7f76472b472ce382b6e2f0ef0a8e"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x25.SLDPRT",
+    "bytes": 98995,
+    "sha256": "22bca3df89a3c4dc7c95d8a55182c087e7319482dcc762f72d8aa55a642a23a7"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x5.SLDPRT",
+    "bytes": 100468,
+    "sha256": "f9693d92b309e39b3908cd69fbf687aea31f50a2e4911c227e9122b939bc8df9"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x6.SLDPRT",
+    "bytes": 100685,
+    "sha256": "e98782b4102eb8e1ec365f232fe188a5cd616c2d14470916864b9e6dcb6082af"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M3x8.SLDPRT",
+    "bytes": 101532,
+    "sha256": "6aa48b5bae1f41659fb04e03b138188cb7bc9ced9fbe11748f51d84fe87c4bd7"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M4x30.SLDPRT",
+    "bytes": 100064,
+    "sha256": "28eb0bc48eee0799687e5220774d2c609de276c82ab335afb8d3ceba5e526591"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M5x12.SLDPRT",
+    "bytes": 102262,
+    "sha256": "f14ebdd8982fa94955692d3b96c546733584480677f7d23551a9d3fd05d290c6"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M5x16.SLDPRT",
+    "bytes": 101360,
+    "sha256": "35554f023676ba9acd6bbe6fd71d95de2ddc643d06abd4b53c883cbef69d2edb"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M5x20.SLDPRT",
+    "bytes": 100457,
+    "sha256": "4990458c7c190b2c7cd2ba3811a66e7af138b5850ef95c3d8de8a5f17c3a7de3"
+  },
+  {
+    "path": "模型/智梭_DIN7984_M5x30.SLDPRT",
+    "bytes": 100287,
+    "sha256": "d040d1f55fba0f9810f0659fb100b364425b193a5aa8446697520d287bfec2e9"
+  },
+  {
+    "path": "模型/智梭_ISO4032_M2螺母.SLDPRT",
+    "bytes": 85632,
+    "sha256": "76e99da4619a174f3b870aa46b50e4ae872dce492422d3d03cc76edd2d63e122"
+  },
+  {
+    "path": "模型/智梭_ISO4032_M3螺母.SLDPRT",
+    "bytes": 87029,
+    "sha256": "fd00d180b3cf206a9521f780b65c9b1da4dc3568635426e025a4b0dc0b6e7d09"
+  },
+  {
+    "path": "模型/智梭_ISO4032_M4螺母.SLDPRT",
+    "bytes": 86365,
+    "sha256": "3e652664f8224abc2e89d1778b0e4f059fa7c24a2b5d200ecedaf4205332c9c6"
+  },
+  {
+    "path": "模型/智梭_ISO4032_M5螺母.SLDPRT",
+    "bytes": 88246,
+    "sha256": "dcd9483ce74ed59de0125d7dc51ccb65d2662f47c3009aee55f9dc2e9e60e9af"
+  },
+  {
+    "path": "模型/智梭_ISO4762_M2x12.SLDPRT",
+    "bytes": 101225,
+    "sha256": "dac9407e806e6bed703c4a26ac0ce05d2d454e564d71c2fdbbae2f7052702ddd"
+  },
+  {
+    "path": "模型/智梭_ISO4762_M2x25.SLDPRT",
+    "bytes": 109479,
+    "sha256": "0653cd0696b44a6ae88cebc7f8970c725ac9b9845accf4fed12f278eb273dc5a"
+  },
+  {
+    "path": "模型/智梭_ISO4762_M2x4.SLDPRT",
+    "bytes": 126740,
+    "sha256": "a9c949c7894b31db35c176642342d875408366467237d0da9b23d0351df9f5e2"
+  },
+  {
+    "path": "模型/智梭_ISO4762_M2x40.SLDPRT",
+    "bytes": 104538,
+    "sha256": "e84146599b29375d11b5eb9bc189f36f048fd1e3e27bf259296221e6522cc294"
+  },
+  {
+    "path": "模型/智梭_ISO4762_M2x6.SLDPRT",
+    "bytes": 125516,
+    "sha256": "f31458a3f4303d277647156f54229e435624535ec61fc4fa357361f8d8cfabac"
+  },
+  {
+    "path": "模型/智梭_ISO4762_M2x8.SLDPRT",
+    "bytes": 123913,
+    "sha256": "4c7a10d7b65e7f4217a8e4c4ab74a51d1a6c4b270301673ce7c8655e958a6144"
+  },
+  {
+    "path": "模型/智梭_云台托架.SLDPRT",
+    "bytes": 86406,
+    "sha256": "29649f6648d0a1c6e758092cd5a11c0c71fa6f33b4afc2c916f2ad8079deb604"
+  },
+  {
+    "path": "模型/智梭_初赛夹爪.SLDPRT",
+    "bytes": 185828,
+    "sha256": "2c7929e5f531c65f008eaa60941f753b70ad461bc17e306deec0add987688190"
+  },
+  {
+    "path": "模型/智梭_初赛物料.SLDPRT",
+    "bytes": 78119,
+    "sha256": "376850c083cec5e9f427fd0f82e4c86ed4abb4abdcbba977bad4aba3f0ebd17f"
+  },
+  {
+    "path": "模型/智梭_初赛物料2.SLDPRT",
+    "bytes": 76793,
+    "sha256": "0d97d92a6c52e03081d14b9989ea24741fb4ffeecb0d34b70ffbcee6dccdcde8"
+  },
+  {
+    "path": "模型/智梭_初赛物料3.SLDPRT",
+    "bytes": 77890,
+    "sha256": "0a730ca597bdedb2729b49c819ca82b27ae215bd214e8693a8356289f9c99f07"
+  },
+  {
+    "path": "模型/智梭_前伸水平轴连接板.SLDPRT",
+    "bytes": 203781,
+    "sha256": "67b8e4b2b8ab13f06c384dc7ee56aae3ef9ecd8ffd6b88e850c0e13e28e7a9a6"
+  },
+  {
+    "path": "模型/智梭_前伸限位块.SLDPRT",
+    "bytes": 104597,
+    "sha256": "161ba166dad0c233ae473e877277f4f0367184c1dce5cbb6ac1adc5b03182971"
+  },
+  {
+    "path": "模型/智梭_前伸齿条.SLDPRT",
+    "bytes": 454670,
+    "sha256": "60789146a312887099336d8ddf85d10e97757254dd2941e2175b9ea3091cf356"
+  },
+  {
+    "path": "模型/智梭_前伸齿轮.SLDPRT",
+    "bytes": 766691,
+    "sha256": "441489fa19723a6764146f4a2f9a8482017eb75d598687855b3f70ff63641b84"
+  },
+  {
+    "path": "模型/智梭_升降台250mm导轨.SLDPRT",
+    "bytes": 123261,
+    "sha256": "2c9aa9cddc9ad9236f163480875a31dd2d7ad6cce87820295c839b5d16ed69d1"
+  },
+  {
+    "path": "模型/智梭_升降台主动爪齿轮.SLDPRT",
+    "bytes": 371004,
+    "sha256": "7b46cec67bb5c219bc55dccb14d3bc1d917e7b39dbc65e2c72b904a717bc6f78"
+  },
+  {
+    "path": "模型/智梭_升降台从动爪齿轮.SLDPRT",
+    "bytes": 357727,
+    "sha256": "09aa24808baeb3dd291720e7b0995861575f3744c476826c8bca7f70d15778da"
+  },
+  {
+    "path": "模型/智梭_升降台升降底座.SLDPRT",
+    "bytes": 175412,
+    "sha256": "c7ebfd145bef401bd436a7e49d2dedfd13edf45af5503f01337275b11a89ed5f"
+  },
+  {
+    "path": "模型/智梭_升降台带轮.SLDPRT",
+    "bytes": 91705,
+    "sha256": "0025eb2a8f0cbcdf24555b8b654261dc98f2aa40f225c3efcbea226d100a45c1"
+  },
+  {
+    "path": "模型/智梭_升降台惰轮座.SLDPRT",
+    "bytes": 107070,
+    "sha256": "7d49c9e90ce2daf4f6f6497a0ba6007182b1f965421acfb1fdf833b36b32f3e5"
+  },
+  {
+    "path": "模型/智梭_升降台滑块.SLDPRT",
+    "bytes": 102239,
+    "sha256": "a11bf63a3d5318870856b3be376784e7829f0700b26b521193ff0f00c39c166f"
+  },
+  {
+    "path": "模型/智梭_升降台皮带.SLDPRT",
+    "bytes": 51794,
+    "sha256": "c71f0d3f23e141c59846fc4f1e49c795a1a06d298f5ff03f9da0e82e2e5c750c"
+  },
+  {
+    "path": "模型/智梭_升降台皮带固定片1.SLDPRT",
+    "bytes": 160840,
+    "sha256": "e8ba1979c2c3ed05baa1285391deb6f01e477bad1ea40e6327e3bdefc06137c3"
+  },
+  {
+    "path": "模型/智梭_升降台皮带固定片2.SLDPRT",
+    "bytes": 133272,
+    "sha256": "cdaf74b8a97bc2cac3ecfcc99faef05ccaa73b448b323620f885ad3021367fa6"
+  },
+  {
+    "path": "模型/智梭_升降台轴承.SLDPRT",
+    "bytes": 94810,
+    "sha256": "c8e2508234235fe3dc11b14fa83a84cdb5bdc22b3ca01a7abe355d1402915d0e"
+  },
+  {
+    "path": "模型/智梭_升降台金属舵盘.SLDPRT",
+    "bytes": 83635,
+    "sha256": "02499f08f17f60580570fda587f351be34d0a07cb4b02214a40e625ab6537107"
+  },
+  {
+    "path": "模型/智梭_导轨L形架v2.SLDPRT",
+    "bytes": 131291,
+    "sha256": "4fa81b53eed9184f7e3a0f3677c38494add19ff4a8ef3d54f14dd3400cfcd805"
+  },
+  {
+    "path": "模型/智梭_导轨L形架v3.SLDPRT",
+    "bytes": 117695,
+    "sha256": "6e6f49682ff028ed91cc56eb07f55c4b1bdf9fcecda18aba95d11655d307238c"
+  },
+  {
+    "path": "模型/智梭_导轨L形架v4.SLDPRT",
+    "bytes": 136628,
+    "sha256": "be165487f60b1b087d41f1e0dd12c9e5c54a64e0164a3b6322626740d78f5ada"
+  },
+  {
+    "path": "模型/智梭_底板_增加11mm_2027独立版.SLDPRT",
+    "bytes": 511617,
+    "sha256": "ad7749652e808c038c0bca408e3c263edb36602a39de8de8d95d74cb1f5e8efc"
+  },
+  {
+    "path": "模型/智梭_新版42步进电机支架.SLDPRT",
+    "bytes": 143363,
+    "sha256": "436f370c5e3a144cc8041683e8221e164b10006964e6f4e710ecc1bedb5e4c6d"
+  },
+  {
+    "path": "模型/智梭_新版升降台舵机爪子夹片(厚）.SLDPRT",
+    "bytes": 234933,
+    "sha256": "9f4306d93c3b08c447531c92f870209b3786969d41dae5ec8441af47f6da11e1"
+  },
+  {
+    "path": "模型/智梭_滑轨顶部片.SLDPRT",
+    "bytes": 141794,
+    "sha256": "8b31e6dc06e6f976243d307b82e0dd33d61bb54e1dc1d84075aaf7e7a64004c1"
+  },
+  {
+    "path": "模型/智梭_舵机夹片.SLDPRT",
+    "bytes": 91814,
+    "sha256": "0ca0d768d2b07032b962294c86c99c68e35d5c56ea77bb729e0ec21bc47bd750"
+  },
+  {
+    "path": "模型/智梭_舵机座L形架.SLDPRT",
+    "bytes": 241656,
+    "sha256": "5c5bded9a254617332602b37e4c325ebf137dc1a727fcb3b1e9af09dc125b150"
+  },
+  {
+    "path": "模型/智梭_舵机（大）.SLDPRT",
+    "bytes": 198611,
+    "sha256": "689ec892e3ed6126df93f1e3d72ca1a1c5de97a9585619ed35e7cb164d439094"
+  },
+  {
+    "path": "模型/智梭_转台.SLDASM",
+    "bytes": 185958,
+    "sha256": "666721a7c5e526e6ea8d15a3147460037dd9c6b3e0bd24726af73380695bf4df"
+  },
+  {
+    "path": "模型/智梭_转盘.SLDPRT",
+    "bytes": 117867,
+    "sha256": "709ba373dfa054bc4ba59927ffe857c89e00a275990f95baa6b4096b0b5f96a5"
+  },
+  {
+    "path": "模型/智梭_转盘物料盘1.SLDPRT",
+    "bytes": 68931,
+    "sha256": "3a013c9ca03457b5e3ba0e7d568781f4c194312a51bebb930ff7d9aeba552ff8"
+  },
+  {
+    "path": "模型/智梭_转盘舵机座.SLDPRT",
+    "bytes": 184242,
+    "sha256": "2761eabcb40e2678402787234c14af5c0e5e219c55ac9c6edbc26bd488df3d18"
+  },
+  {
+    "path": "模型/智梭_轴承.SLDPRT",
+    "bytes": 138735,
+    "sha256": "889836bf64aaeecb8c0ace0c7a76055b21a82c468a5ab5d7ab5e7b127e0581e1"
+  },
+  {
+    "path": "模型/智梭_轴承夹片（大）.SLDPRT",
+    "bytes": 84589,
+    "sha256": "1738c8960022483aa3c088f796f3ddacfa25207f28a5be3d30cf436aa7c60010"
+  },
+  {
+    "path": "模型/智梭_轴承夹片（小上）.SLDPRT",
+    "bytes": 65564,
+    "sha256": "3d94b44f283f93e078bfe4662391fa62631bbbdee9ad71dbe8734f5fac661e55"
+  },
+  {
+    "path": "模型/智梭_轴承夹片（小下）.SLDPRT",
+    "bytes": 77671,
+    "sha256": "adeea4d836b217628483038553e87ae2edb21c477570a27f7f8931e451e3fa10"
+  },
+  {
+    "path": "模型/智梭_金属舵盘.SLDPRT",
+    "bytes": 112628,
+    "sha256": "49846d53d9917d8e18d0bfec7d4a42421d042428d1cc0639bd2bc46802a89163"
+  },
+  {
+    "path": "模型/智梭_铝管.SLDPRT",
+    "bytes": 137916,
+    "sha256": "70fdd23b3ba11f727397bde754f1202819c7f4cfe09b23e7b08b8c5d5780506f"
+  },
+  {
+    "path": "模型/智梭_镜向初赛夹爪.SLDPRT",
+    "bytes": 159009,
+    "sha256": "ae25f75f5c4ab52a13c803caf2e2a1b5c98d95e11ba1eb31c6316c73a5219739"
+  },
+  {
+    "path": "模型/智梭_麦轮.SLDPRT",
+    "bytes": 65182,
+    "sha256": "742bd61fd3e40d00c9b6512e4fc85888fcf16917cde71b51214e18b24fb134ab"
+  },
+  {
+    "path": "清单/2027升降台_紧固件商家采购清单.xlsx",
+    "bytes": 5227,
+    "sha256": "dd378ef42c2bc6edf94a22902e9b97a18ea1ca380c9b624ba259318dcf43a9b1"
+  },
+  {
+    "path": "清单/2027铝条支架总装_紧固件清单.xlsx",
+    "bytes": 24066,
+    "sha256": "d4bf244405bdf2169f17dc6e441e9dc60fedc0a487c0cdf0159ffc4171043787"
+  },
+  {
+    "path": "预览/指定总装预览.png",
+    "bytes": 306787,
+    "sha256": "26de6c12464c583e5d823a903c04513aef896e829021017ede918f79454a1d79"
+  }
+]

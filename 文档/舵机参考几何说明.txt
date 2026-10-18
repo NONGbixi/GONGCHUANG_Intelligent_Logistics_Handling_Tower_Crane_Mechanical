@@ -1,0 +1,21 @@
+评论 CommentsFolder 
+收藏 FavoriteFolder 
+文件夹  HistoryFolder 
+选择集 SelectionSetFolder 
+传感器 SensorFolder 
+设计活页夹 DocsFolder 
+注解 DetailCabinet 
+曲面实体 SurfaceBodyFolder 
+实体 SolidBodyFolder 
+光源与相机 EnvFolder 
+标注 InkMarkupFolder 
+方程式 EqnFolder 
+材质 <未指定> MaterialFolder 
+前视基准面 RefPlane 
+上视基准面 RefPlane 
+右视基准面 RefPlane 
+原点 OriginProfileFeature 
+IsInterconnect=True
+BreakAll=0
+舵机（大）.STEP<1> MBimport 
+Saved=True Error=0

@@ -1,0 +1,9 @@
+# SolidWorks temporary and recovery files
+~$*
+*.sldbak
+*.SLDBAK
+*.swp
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini

@@ -1,0 +1,9 @@
+*.SLDPRT binary
+*.SLDASM binary
+*.STEP binary
+*.step binary
+*.xlsx binary
+*.mp4 binary
+*.png binary
+*.md text eol=lf
+*.json text eol=lf
