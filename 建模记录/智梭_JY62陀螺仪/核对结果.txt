@@ -1,0 +1,88 @@
+Start 2026-10-21T13:12:47.0523037+08:00
+Created 载板PCB_30x30x1.6_四孔D2.2_孔距24.6
+Created 载板安装孔镀锡环
+Created 载板12处焊接焊盘_间距2.54
+Created 陀螺仪模块PCB_15.24x15.24x0.8_双侧半孔
+Created 模块12处半孔镀锡焊盘
+Created 屏蔽罩侧壁_厚0.18
+Created 屏蔽罩顶盖_厚0.18_模块总高2.8
+Created 屏蔽罩定位标记
+Created 模块型号标识
+Created 模块功能标识
+Created 模块方向标识
+Created 载板控制芯片_4x4
+Created 载板控制芯片24引脚
+Created 载板贴片元件焊盘
+Created 贴片元件_1
+Created 贴片元件_2
+Created 贴片元件_3
+Created 贴片元件_4
+Created 贴片元件_5
+Created 贴片元件_6
+Created 贴片元件端电极
+Created 载板型号丝印
+SolidBodies=102
+ExactEnvelopeMM=30.0000,30.0000,4.5120
+Feature=收藏 | FavoriteFolder | Error=0
+Feature=历史记录 | HistoryFolder | Error=0
+Feature=选择集 | SelectionSetFolder | Error=0
+Feature=传感器 | SensorFolder | Error=0
+Feature=设计活页夹 | DocsFolder | Error=0
+Feature=注解 | DetailCabinet | Error=0
+Feature=标注 | InkMarkupFolder | Error=0
+Feature=光源与相机 | EnvFolder | Error=0
+Feature=实体 | SolidBodyFolder | Error=0
+Feature=曲面实体 | SurfaceBodyFolder | Error=0
+Feature=备注 | CommentsFolder | Error=0
+Feature=方程式 | EqnFolder | Error=0
+Feature=材质 <未指定> | MaterialFolder | Error=0
+Feature=前视基准面 | RefPlane | Error=0
+Feature=上视基准面 | RefPlane | Error=0
+Feature=右视基准面 | RefPlane | Error=0
+Feature=原点 | OriginProfileFeature | Error=0
+Feature=Tables | ConfigTableFolder | Error=0
+Feature=载板PCB_30x30x1.6_四孔D2.2_孔距24.6_草图 | ProfileFeature | Error=0
+Feature=载板PCB_30x30x1.6_四孔D2.2_孔距24.6 | Extrusion | Error=0
+Feature=载板安装孔镀锡环_草图 | ProfileFeature | Error=0
+Feature=载板安装孔镀锡环 | ICE | Error=0
+Feature=载板12处焊接焊盘_间距2.54_草图 | ProfileFeature | Error=0
+Feature=载板12处焊接焊盘_间距2.54 | ICE | Error=0
+Feature=陀螺仪模块PCB_15.24x15.24x0.8_双侧半孔_草图 | ProfileFeature | Error=0
+Feature=陀螺仪模块PCB_15.24x15.24x0.8_双侧半孔 | ICE | Error=0
+Feature=模块12处半孔镀锡焊盘_草图 | ProfileFeature | Error=0
+Feature=模块12处半孔镀锡焊盘 | ICE | Error=0
+Feature=屏蔽罩侧壁_厚0.18_草图 | ProfileFeature | Error=0
+Feature=屏蔽罩侧壁_厚0.18 | ICE | Error=0
+Feature=屏蔽罩顶盖_厚0.18_模块总高2.8_草图 | ProfileFeature | Error=0
+Feature=屏蔽罩顶盖_厚0.18_模块总高2.8 | ICE | Error=0
+Feature=屏蔽罩定位标记_草图 | ProfileFeature | Error=0
+Feature=屏蔽罩定位标记 | ICE | Error=0
+Feature=模块型号标识_草图 | ProfileFeature | Error=0
+Feature=模块型号标识 | ICE | Error=0
+Feature=模块功能标识_草图 | ProfileFeature | Error=0
+Feature=模块功能标识 | ICE | Error=0
+Feature=模块方向标识_草图 | ProfileFeature | Error=0
+Feature=模块方向标识 | ICE | Error=0
+Feature=载板控制芯片_4x4_草图 | ProfileFeature | Error=0
+Feature=载板控制芯片_4x4 | ICE | Error=0
+Feature=载板控制芯片24引脚_草图 | ProfileFeature | Error=0
+Feature=载板控制芯片24引脚 | ICE | Error=0
+Feature=载板贴片元件焊盘_草图 | ProfileFeature | Error=0
+Feature=载板贴片元件焊盘 | ICE | Error=0
+Feature=贴片元件_1_草图 | ProfileFeature | Error=0
+Feature=贴片元件_1 | ICE | Error=0
+Feature=贴片元件_2_草图 | ProfileFeature | Error=0
+Feature=贴片元件_2 | ICE | Error=0
+Feature=贴片元件_3_草图 | ProfileFeature | Error=0
+Feature=贴片元件_3 | ICE | Error=0
+Feature=贴片元件_4_草图 | ProfileFeature | Error=0
+Feature=贴片元件_4 | ICE | Error=0
+Feature=贴片元件_5_草图 | ProfileFeature | Error=0
+Feature=贴片元件_5 | ICE | Error=0
+Feature=贴片元件_6_草图 | ProfileFeature | Error=0
+Feature=贴片元件_6 | ICE | Error=0
+Feature=贴片元件端电极_草图 | ProfileFeature | Error=0
+Feature=贴片元件端电极 | ICE | Error=0
+Feature=载板型号丝印_草图 | ProfileFeature | Error=0
+Feature=载板型号丝印 | ICE | Error=0
+Saved=D:\Robot\2027工创赛智梭速运升降台\模型\智梭_JY62陀螺仪.SLDPRT SaveErrors=0 SaveWarnings=0

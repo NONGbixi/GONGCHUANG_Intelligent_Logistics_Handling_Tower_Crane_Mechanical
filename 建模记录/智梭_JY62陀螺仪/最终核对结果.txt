@@ -1,0 +1,15 @@
+Removed text geometry: 载板型号丝印
+Removed text geometry: 模块方向标识
+Removed text geometry: 模块功能标识
+Removed text geometry: 模块型号标识
+Added 12 complete through holes: diameter 0.8 mm, pitch 2.54 mm, row spacing 12.7 mm
+Feature error check: PASS; checked=56
+Visible sketch text remaining: 0
+Solid bodies=88
+All solid bodies valid: PASS
+Envelope mm=30,30,4.5120119999999995
+载板PCB_30x30x1.6_四孔D2.2_孔距24.6 RGB=16,56,32
+陀螺仪模块PCB_15.24x15.24x0.8_双侧半孔 RGB=16,56,32
+屏蔽罩顶盖_厚0.18_模块总高2.8 RGB=174,186,198
+模块12处半孔镀锡焊盘 RGB=174,186,198
+Saved=D:\Robot\2027工创赛智梭速运升降台\模型\智梭_JY62陀螺仪.SLDPRT errors=0 warnings=0
