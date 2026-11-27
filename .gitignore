@@ -7,3 +7,7 @@
 *.bak
 Thumbs.db
 desktop.ini
+
+# 夹爪齿轮渐开线方案的加工交换导出（step/stl 不纳入仓库）
+模型/parts/夹爪齿轮_渐开线方案/*.step
+模型/parts/夹爪齿轮_渐开线方案/*.stl
